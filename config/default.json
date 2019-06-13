@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Aodhan:811FMWiwnmonaPThFJ2bgm4@cluster0-vnczu.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://Aodhan:811FMWiwnmonaPThFJ2bgm4@cluster0-vnczu.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secretToken"
 }
